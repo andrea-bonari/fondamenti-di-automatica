@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aritmetica/Aritmetica binaria.md",
+                "file": "Automatica/Modelli/Stabilità.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aritmetica binaria"
+              "title": "Stabilità"
+            }
+          },
+          {
+            "id": "72bfde70a198c798",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Automatica/Modelli/Sistemi tempo-invarianti a tempo continuo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sistemi tempo-invarianti a tempo continuo"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,17 +182,27 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "markdown-table-editor:Open Markdown Table Editor": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "211b4075f4840778",
+  "active": "72bfde70a198c798",
   "lastOpenFiles": [
+    "Automatica/Modelli/Modelli.md",
+    "Automatica/Modelli/Sistemi tempo-invarianti a tempo continuo.md",
+    "index.md",
+    "Automatica/Modelli/Stabilità.md",
+    "data/Pasted image 20260224103521.png",
+    "Automatica/Automatica.md",
+    "Automatica/Modelli",
+    "Automatica/Modelli",
+    "Automatica/Untitled.md",
+    "data/Pasted image 20260223130640.png",
+    "data",
+    "Automatica",
     "VHDL/Linguaggio VHDL.md",
     "Reti logiche/Logiche programmabili.md",
     "Reti logiche/Algebra di Boole.md",
     "Reti logiche/Circuiti sequenziali/Circuiti sequenziali.md",
-    "index.md",
     "Aritmetica/Numeri a virgola mobile.md",
     "Aritmetica/Aritmetica binaria.md",
     "VHDL/Process.md",
@@ -196,8 +221,6 @@
     "data/Pasted image 20260114141349.png",
     "Introduzione al corso.md",
     "Dispensa 2a parte API.md",
-    "data/Pasted image 20251218181725.png",
-    "data/Pasted image 20251218162151.png",
     "Algebra di Boole/Reti logiche/Circuiti sequenziali/Analisi delle macchine sequenziali.md",
     "Sintesi di reti combinatorie a più livelli.md",
     "Algebra di Boole/Reti logiche/Sintesi di reti combinatorie a più livelli.md",
@@ -207,16 +230,8 @@
     "Componenti fisiche di internet.md",
     "VHDL",
     "Reti logiche",
-    "data",
     "Algebra di Boole",
     "temp",
-    "Funzioni a più variabili/Calcolo integrale/Integrale triplo.md",
-    "Funzioni a più variabili/Ottimizzazione/Ottimizzazione libera.md",
-    "Dimostrazioni.md",
-    "Funzioni a più variabili/Calcolo differenziale/Derivabilità di funzioni a più variabili.md",
-    "Funzioni a più variabili/Calcolo differenziale/Derivata seconda per funzioni a due variabili.md",
-    "Equazioni differenziali/Studio qualitativo",
-    "Funzioni a più variabili/Calcolo integrale",
-    "Funzioni a più variabili/Ottimizzazione"
+    "Funzioni a più variabili/Calcolo integrale/Integrale triplo.md"
   ]
 }
