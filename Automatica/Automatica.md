@@ -19,10 +19,3 @@ a
 Per fare questo si usa il principio di retroazione, usando un controllo automatico o manuale.
 
 Il controllo automatico si occupa dello studio del progetto di dispositivi (regolatori) mediante i quali è possibile ottenere questo scopo.
-
-
->[!note]
-
->[!example] Resistore
-
->[!example]
