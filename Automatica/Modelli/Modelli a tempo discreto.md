@@ -35,7 +35,7 @@
 
 >[!tip] Criterio di Jury
 >Dopo aver definito il polinomio caratteristico si definisce la tabella di Jury, una tabella triangolare di $n+1$ righe costruita in modo ricorsivo, la prima riga sarà costituita da: $$\begin{matrix}a_{0}&a_{1}&a_{2}&\cdots&a_{n}\end{matrix}$$
->La riga $k+1$-esima si costruisce dalla $k$-esima: $$\begin{matrix}k_{1}&k_{2}&\cdots&k_{n-1}&k_{n}\\l_{1}&l_{2}&\cdots&l_{n-1}\end{matrix}\qquad\qquad l_{i}= \frac{1}{k_{1}}\det\begin{pmatrix}k_{1}&k_{n-i+1}\\k_{0}&k_{i}\end{pmatrix}$$
+>La riga $k+1$-esima si costruisce dalla $k$-esima: $$\begin{matrix}k_{1}&k_{2}&\cdots&k_{n-1}&k_{n}\\l_{1}&l_{2}&\cdots&l_{n-1}\end{matrix}\qquad\qquad l_{i}= \frac{1}{k_{1}}\det\begin{pmatrix}k_{1}&k_{n-i+1}\\k_{n}&k_{i}\end{pmatrix}$$
 >Se $k_{1}=0$ allora la tabella si dice non ben definita.
 >
 >Il criterio di Jury ci dice che il sistema è asintoticamente stabile se e solo se: $$\begin{cases}

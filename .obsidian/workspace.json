@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Automatica/Funzioni di trasferimento/Funzione di trasferimento.md",
+                "file": "Automatica/Modelli/Modelli a tempo discreto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Funzione di trasferimento"
+              "title": "Modelli a tempo discreto"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7f2fcc04cc4630a6",
@@ -173,9 +174,10 @@
   },
   "active": "72bfde70a198c798",
   "lastOpenFiles": [
+    "Automatica/Modelli/Modelli lineari tempo-invarianti a tempo continuo.md",
+    "Automatica/Funzioni di trasferimento/Funzione di trasferimento.md",
     "index.md",
     "Automatica/Automatica.md",
-    "Automatica/Funzioni di trasferimento/Funzione di trasferimento.md",
     "Automatica/Funzioni di trasferimento/Trasformata di Laplace.md",
     "Automatica/Funzioni di trasferimento/Trasformata di Fourier.md",
     "Automatica/Strumenti matematici/Trasformata di Laplace.md",
@@ -183,7 +185,6 @@
     "Automatica/Strumenti matematici",
     "Automatica/Modelli/Modelli a tempo discreto.md",
     "Automatica/Modelli/Modelli non lineari tempo-invarianti a tempo continuo.md",
-    "Automatica/Modelli/Modelli lineari tempo-invarianti a tempo continuo.md",
     "Introduzione al corso.md",
     "Automatica/Modelli.md",
     "Automatica/Stabilità.md",
