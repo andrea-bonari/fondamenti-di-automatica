@@ -48,4 +48,4 @@ Dato $G(s)$ (dopo aver svolto le opportune cancellazioni polo-zero), i poli domi
 
 La risposta allo scalino di un sistema con poli dominanti può essere approssimata con quella di un sistema con funzione di trasferimento avente soltanto il polo dominante e il guadagno pari a quello di partenza. È quindi opportuno tener conto di zeri che abbiano distanza dall'asse immaginario confrontabile o minore con quella dei poli dominanti, oppure che abbiano parte reale positiva.
 
-Qual'ora ci siano coppie polo-zero vicini tra loro nel piano complesso con parte reale negativa, è possibile forzare la cancellazione mantenendo invariati gli altri parametri (tra i quali il guadagno) per ottenere un modello approssimato di ordine ridotto ma con caratteristiche simili a quello di partenza.
+Qualora ci siano coppie polo-zero vicini tra loro nel piano complesso con parte reale negativa, è possibile forzare la cancellazione mantenendo invariati gli altri parametri (tra i quali il guadagno) per ottenere un modello approssimato di ordine ridotto ma con caratteristiche simili a quello di partenza.
