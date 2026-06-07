@@ -49,3 +49,20 @@ Dato $G(s)$ (dopo aver svolto le opportune cancellazioni polo-zero), i poli domi
 La risposta allo scalino di un sistema con poli dominanti può essere approssimata con quella di un sistema con funzione di trasferimento avente soltanto il polo dominante e il guadagno pari a quello di partenza. È quindi opportuno tener conto di zeri che abbiano distanza dall'asse immaginario confrontabile o minore con quella dei poli dominanti, oppure che abbiano parte reale positiva.
 
 Qualora ci siano coppie polo-zero vicini tra loro nel piano complesso con parte reale negativa, è possibile forzare la cancellazione mantenendo invariati gli altri parametri (tra i quali il guadagno) per ottenere un modello approssimato di ordine ridotto ma con caratteristiche simili a quello di partenza.
+
+### Risposta ad ingressi generici
+>[!note]
+>Si applichi un ingresso $u(t)=\overline{u}e^{\lambda t}$ ad un sistema avente $G(s)$ come funzione di trasferimento, e dove $\lambda$ non è autovalore di $A$. Allora: $$\exists x(0)=\overline{x}=(\lambda I-A)^{-1}B\overline{u} \quad\text{t.c.}\quad y(t)=\stackrel{\sim}{y}(t)=G(\lambda)\overline{u}e^{\lambda t}$$Inoltre se il sistema è asintoticamente stabile:
+>$$x(0)\neq\overline{x}\implies y(t)\stackrel{t\to+\infty}{\to}\stackrel{\sim}{y}(t)$$
+>
+>Per quanto riguarda ingressi sinusoidali, si applichi un ingresso $u(t)=\overline{u}\cos(\omega t)$ ad un sistema avente $G(s)$ come funzione di trasferimento, dove $\pm j\omega$ non sono autovalori di $A$. Allora: $$\exists x(0)=\overline{x}\quad\text{t.c.}\quad y(t)=\stackrel{\sim}{y}(t)=|G(j\omega)|\overline{u}\cos(\omega t+\angle(G(j\omega)))$$
+>Inoltre, se il sistema è asintoticamente stabile:
+>$$x(0)\neq\overline{x}\implies y(t)\stackrel{t\to+\infty}{\to}\stackrel{\sim}{y}(t)$$
+>Per quanto riguarda ingressi periodici, si applichi un ingresso $u(t)=u(t+T)$ ad un sistema avente $G(s)$ come funzione di trasferimento, dove $\pm j n \omega_{0}$, con $\omega_{0}= 2\pi f$ non sono autovalori di $A$. Allora: $$\exists x(0)=\overline{x}\quad\text{t.c.}\quad y(t)=\stackrel{\sim}{y}(t)=\sum\limits_{i=0}^{\infty}G(jn\omega_{0})U_{n}e^{jn\omega_{0}t}$$
+>Inoltre, se il sistema è asintoticamente stabile:
+>$$x(0)\neq\overline{x}\implies y(t)\stackrel{t\to+\infty}{\to}\stackrel{\sim}{y}(t)$$
+>
+>Si applichi inoltre un ingresso $u(t)= \frac{1}{2\pi}\int\limits_{-\infty}^{+\infty}U(j\omega)e^{j\omega t}\text{ d}\omega$ ad un sistema avente funzione di trasferimento $G(s)$, dove $\pm j\omega$ non sono autovalori di $A$. Allora: $$\exists x(0)=\overline{x}\quad y(t)=\stackrel{\sim}{y}(t)= \frac{1}{2\pi}\int_{-\infty}^{+\infty}G(j\omega)U(j\omega)e^{j\omega t}$$
+>Inoltre, se il sistema è asintoticamente stabile:
+>$$x(0)\neq\overline{x}\implies y(t)\stackrel{t\to+\infty}{\to}\stackrel{\sim}{y}(t)$$
+

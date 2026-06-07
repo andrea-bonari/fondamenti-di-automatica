@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Automatica/Modelli/Modelli a tempo discreto.md",
+                "file": "Automatica/Sistemi di controllo/Sistemi di controllo digitale.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modelli a tempo discreto"
+              "title": "Sistemi di controllo digitale"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "criterio della matrice hessiana",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,6 +149,20 @@
               "icon": "lucide-list",
               "title": "Outline of Sintetizzazione di reti combinatorie a due livelli"
             }
+          },
+          {
+            "id": "56186ed1998a8635",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
           }
         ],
         "currentTab": 3
@@ -174,26 +188,43 @@
   },
   "active": "72bfde70a198c798",
   "lastOpenFiles": [
-    "Automatica/Modelli/Modelli lineari tempo-invarianti a tempo continuo.md",
-    "Automatica/Funzioni di trasferimento/Funzione di trasferimento.md",
     "index.md",
-    "Automatica/Automatica.md",
+    "Introduzione al corso.md",
+    "Automatica/Modelli/Modelli a tempo discreto.md",
+    "Automatica/Modelli/Modelli lineari tempo-invarianti a tempo continuo.md",
+    "Automatica/Sistemi di controllo/Sistemi di controllo digitale.md",
     "Automatica/Funzioni di trasferimento/Trasformata di Laplace.md",
     "Automatica/Funzioni di trasferimento/Trasformata di Fourier.md",
+    "Automatica/Sistemi di controllo/Prestazioni dei sistemi di controllo.md",
+    "Automatica/Sistemi di controllo/Sistemi di controllo.md",
+    "Automatica/Sistemi di controllo/Schemi a doppio anello.md",
+    "data/Pasted image 20260607190539.png",
+    "data/Pasted image 20260607185031.png",
+    "data/Pasted image 20260607185012.png",
+    "data/Pasted image 20260607184906.png",
+    "Automatica/Funzioni di trasferimento/Diagramma di Bode.md",
+    "data/Pasted image 20260605185315.png",
+    "data/Pasted image 20260605173633.png",
+    "data/Pasted image 20260605173515.png",
+    "data/Pasted image 20260605173358.png",
+    "data/Pasted image 20260605172628.png",
+    "Automatica/Funzioni di trasferimento/Funzione di trasferimento.md",
+    "Automatica/Automatica.md",
+    "Automatica/Modelli/Modelli non lineari tempo-invarianti a tempo continuo.md",
+    "Automatica/Schema a blocchi/Schema a blocchi.md",
+    "data/Pasted image 20260605164832.png",
+    "Automatica/Sistemi di controllo",
+    "Estrazione.md",
+    "Automatica/Modelli.md",
+    "Automatica/Schema a blocchi",
     "Automatica/Strumenti matematici/Trasformata di Laplace.md",
     "Automatica/Funzioni di trasferimento",
     "Automatica/Strumenti matematici",
-    "Automatica/Modelli/Modelli a tempo discreto.md",
-    "Automatica/Modelli/Modelli non lineari tempo-invarianti a tempo continuo.md",
-    "Introduzione al corso.md",
-    "Automatica/Modelli.md",
     "Automatica/Stabilità.md",
     "Automatica/Sistemi",
-    "data/Pasted image 20260224103521.png",
     "Automatica/Modelli",
     "Automatica/Modelli",
     "Automatica/Untitled.md",
-    "data/Pasted image 20260223130640.png",
     "data",
     "Automatica",
     "VHDL/Linguaggio VHDL.md",
@@ -201,24 +232,6 @@
     "Reti logiche/Algebra di Boole.md",
     "Reti logiche/Circuiti sequenziali/Circuiti sequenziali.md",
     "Aritmetica/Numeri a virgola mobile.md",
-    "Aritmetica/Aritmetica binaria.md",
-    "VHDL/Process.md",
-    "Reti logiche/Sintesi di reti combinatorie a due livelli.md",
-    "Reti logiche/Segnali binari.md",
-    "data/Pasted image 20260117173911.png",
-    "data/Pasted image 20260117173419.png",
-    "data/Pasted image 20260117173250.png",
-    "Reti logiche/Circuiti sequenziali/Sintesi sequenziale sincrona.md",
-    "Reti logiche/Circuiti sequenziali/Registri.md",
-    "data/Pasted image 20260114143341.png",
-    "data/Pasted image 20260114142550.png",
-    "data/Pasted image 20260114142511.png",
-    "Reti logiche/Circuiti sequenziali/FSM non completamente specificate.md",
-    "data/Pasted image 20260114141903.png",
-    "data/Pasted image 20260114141349.png",
-    "Dispensa 2a parte API.md",
-    "Aritmetica",
-    "Reti logiche/Circuiti sequenziali",
-    "VHDL"
+    "Aritmetica"
   ]
 }
